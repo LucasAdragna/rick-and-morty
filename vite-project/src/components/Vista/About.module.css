@@ -1,0 +1,8 @@
+.perfil{
+    display: flex;
+   align-items: center;
+   margin-left: 500px;
+   margin-top: 150px;
+   max-width: 50px;
+   background-color: antiquewhite;
+}

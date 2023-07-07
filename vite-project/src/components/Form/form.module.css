@@ -1,0 +1,51 @@
+.formContainer{
+background-image: url('https://fondosmil.com/fondo/27347.jpg');
+background-repeat: no-repeat;
+background-size: cover;   
+display: flex;
+place-items: center;
+justify-content: center;
+padding: 80px;
+}
+.formContainer{
+    display:inline-block;
+    margin: 380px;
+    margin-top: 200px;
+}
+.formulario{
+margin: auto;
+}
+
+.inputUno{
+    border: solid 1px black;
+    background-color: rgb(228, 228, 59);
+    padding: 5px;
+   
+
+}
+.inputDos{
+    border: solid 1px black;
+    background-color: rgb(228, 228, 59);
+    margin: 5px;
+    padding: 5px;
+}
+.error{
+    color: red;
+    background-color: beige;
+}
+.error2{
+    color: red;
+    background-color: beige;
+}
+.submit{
+    padding: 10px;
+    background-color:rgb(54, 238, 54);
+    margin-top: 15px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    margin-left: 180px;
+}
+.Label{
+    margin-right: 10px;
+    background-color: gold;
+}

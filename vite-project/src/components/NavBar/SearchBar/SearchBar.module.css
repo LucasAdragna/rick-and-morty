@@ -1,0 +1,44 @@
+.container {
+    display: block;
+    overflow: hidden;
+    float: right;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .input { 
+    position: fixed;
+    top:75px;
+    right: 125px;
+    transform: translateY(-45%);
+    width: 200px;
+    background-color: aqua;
+    padding: 12px;
+    border-radius: 10px;
+    margin-right: 13px;
+  }
+  .input:hover{
+    background-color: rgb(228, 228, 27);
+    border: solid 2px black;
+  }
+  
+  .button {
+    position: fixed;
+    top:75px;
+    right: 55px;
+    transform: translateY(-45%);
+    padding: 12px;
+    background-color: aqua;
+    color: #0c0909;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color:rgb(228, 228, 27);
+    color: #9000ff;
+    border: 3px solid black;
+    font-weight: bold;
+  }
+  
